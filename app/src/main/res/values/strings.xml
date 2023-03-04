@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MAD_Task_04</string>
+    <string name="edit_text">Type your message here</string>
+    <string name="main_button">Button</string>
+    <string name="message_received">Message Received</string>
+    <string name="btn_done">Done</string>
+</resources>
